@@ -58,6 +58,10 @@ Queueing · Idempotency · Retry/backoff · Offline-first design · Observabilit
 **AI Systems**  
 Provider abstraction · Multi-model evaluation · Longitudinal testing · Experiment design · Response normalization
 
+## Production Automation
+
+I have designed and operated Make-based systems spanning AI-assisted content generation, publishing queues, media production, API integrations, project synchronization, approvals, retries, and operational audit trails. The public repositories translate those patterns into reusable reference implementations.
+
 ## How I Work
 
 I usually start with two questions:
