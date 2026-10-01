@@ -36,6 +36,11 @@ A public reference architecture for resilient connected-device deployments using
 
 [View the repository](https://github.com/bentag1965/iot-edge-reference-architecture)
 
+### Email Domain Security Audit
+A defensive PowerShell utility for assessing public email-domain security posture across SPF, DMARC, DKIM selectors, MX, and DNS resolution with severity-rated findings and remediation guidance.
+
+[View the repository](https://github.com/bentag1965/email-domain-security-audit)
+
 ## Technologies
 
 **Infrastructure & Operations**  
