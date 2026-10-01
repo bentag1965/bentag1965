@@ -32,7 +32,9 @@ A public reference implementation for reliable API- and webhook-driven workflows
 [View the repository](https://github.com/bentag1965/automation-operations-platform)
 
 ### IoT / Edge Reference Architecture
-In development: practical architecture patterns for resilient connected-device deployments including BLE, RFID/NFC, edge gateways, intermittent connectivity, local buffering, and cloud synchronization.
+A public reference architecture for resilient connected-device deployments using BLE, RFID/UHF, NFC, edge gateways, local buffering, deduplication, multi-path connectivity, and store-and-forward synchronization.
+
+[View the repository](https://github.com/bentag1965/iot-edge-reference-architecture)
 
 ## Technologies
 
