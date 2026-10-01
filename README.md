@@ -22,7 +22,9 @@ A growing collection of reusable PowerShell utilities for Windows administration
 [View the repository](https://github.com/bentag1965/powershell-admin-toolkit)
 
 ### AI Model Longitudinal Lab
-In development: a provider-agnostic framework for running controlled prompts across multiple AI models, capturing outputs over time, and evaluating inter-model variation and longitudinal drift.
+A provider-agnostic reference framework for running controlled prompts across multiple AI models, capturing outputs over time, normalizing provider responses, and evaluating inter-model variation and longitudinal drift.
+
+[View the repository](https://github.com/bentag1965/ai-model-longitudinal-lab)
 
 ### Automation Operations Platform
 In development: reference patterns for API- and webhook-driven workflows using queues, retries, state tracking, idempotency, audit logging, and human approval gates.
