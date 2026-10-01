@@ -27,7 +27,9 @@ A provider-agnostic reference framework for running controlled prompts across mu
 [View the repository](https://github.com/bentag1965/ai-model-longitudinal-lab)
 
 ### Automation Operations Platform
-In development: reference patterns for API- and webhook-driven workflows using queues, retries, state tracking, idempotency, audit logging, and human approval gates.
+A public reference implementation for reliable API- and webhook-driven workflows using idempotency, queueing, retries, explicit state, audit logging, and human approval gates.
+
+[View the repository](https://github.com/bentag1965/automation-operations-platform)
 
 ### IoT / Edge Reference Architecture
 In development: practical architecture patterns for resilient connected-device deployments including BLE, RFID/NFC, edge gateways, intermittent connectivity, local buffering, and cloud synchronization.
