@@ -16,7 +16,7 @@ Reusable PowerShell utilities for Windows administration, diagnostics, performan
 ### AI Model Longitudinal Lab
 ![TypeScript CI](https://github.com/bentag1965/ai-model-longitudinal-lab/actions/workflows/typecheck.yml/badge.svg)
 
-Provider-agnostic reference architecture for controlled multi-model experiments, normalized provider responses, repeated sampling, and longitudinal behavior analysis.
+Provider-agnostic reference architecture for controlled multi-model experiments, longitudinal behavior analysis, provenance tracking, prompt/schema versioning, structured-output validation, and token/cost accounting.
 
 [View repository](https://github.com/bentag1965/ai-model-longitudinal-lab)
 
