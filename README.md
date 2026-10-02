@@ -2,7 +2,7 @@
 
 Senior IT / Infrastructure / IoT leader with 20+ years of experience across enterprise support, infrastructure operations, connected systems, automation, troubleshooting, and technical leadership.
 
-I work where architecture meets operations: designing systems that hold up in the real world, diagnosing what breaks, simplifying repeatable work, and building the tooling that keeps teams moving.
+I work where architecture meets operations: designing systems that hold up in the real world, diagnosing what breaks, simplifying repeatable work, and building the tooling that keeps teams moving. That increasingly includes AI-enabled operations - using AI for analysis, documentation, decision support, workflow orchestration, and controlled experimentation without treating it as a substitute for engineering judgment.
 
 ## Portfolio at a Glance
 
@@ -77,8 +77,8 @@ BLE · RFID/UHF · NFC · Edge gateways · Cellular/Wi-Fi connectivity · Device
 **Architecture & Reliability**  
 Queueing · Idempotency · Retry/backoff · Offline-first design · Observability · Auditability · Human approval workflows
 
-**AI Systems**  
-Provider abstraction · Multi-model evaluation · Longitudinal testing · Experiment design · Response normalization
+**AI-Enabled Operations**  
+LLM-assisted analysis · Workflow automation · Decision support · Multi-model evaluation · Provenance · Human review · Governance
 
 ## Production Automation
 
