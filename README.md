@@ -4,51 +4,62 @@ Senior IT / Infrastructure / IoT leader with 20+ years of experience across ente
 
 I work where architecture meets operations: designing systems that hold up in the real world, diagnosing what breaks, simplifying repeatable work, and building the tooling that keeps teams moving.
 
+## Portfolio at a Glance
+
+| Area | Evidence |
+|---|---|
+| Automation & Operations | Runnable TypeScript/PostgreSQL workflow platform with queues, retries, approvals, audit history, Prometheus/Grafana, hardened Docker, and AWS Terraform |
+| Enterprise Identity | Entra ID-centered lifecycle, RBAC, privileged access, Conditional Access, emergency access, workload identity governance, and PowerShell assessment |
+| AI Systems | Multi-provider longitudinal evaluation with provenance, prompt/schema versioning, structured-output validation, and token/cost accounting |
+| IoT / Edge | Offline-first BLE/RFID/NFC architecture with local buffering, deduplication, store-and-forward, and connectivity resilience |
+| Windows Operations | PowerShell diagnostics, system-health, performance, and administration tooling |
+| Security | Email-domain posture assessment across SPF, DMARC, DKIM, MX, DNS, MTA-STS, and TLS reporting |
+
 ## Featured Projects
-
-### PowerShell Admin Toolkit
-![PowerShell CI](https://github.com/bentag1965/powershell-admin-toolkit/actions/workflows/powershell-ci.yml/badge.svg)
-
-Reusable PowerShell utilities for Windows administration, diagnostics, performance monitoring, and operational automation.
-
-[View repository](https://github.com/bentag1965/powershell-admin-toolkit)
-
-### AI Model Longitudinal Lab
-![TypeScript CI](https://github.com/bentag1965/ai-model-longitudinal-lab/actions/workflows/typecheck.yml/badge.svg)
-
-Provider-agnostic reference architecture for controlled multi-model experiments, longitudinal behavior analysis, provenance tracking, prompt/schema versioning, structured-output validation, and token/cost accounting.
-
-[View repository](https://github.com/bentag1965/ai-model-longitudinal-lab)
 
 ### Automation Operations Platform
 ![TypeScript CI](https://github.com/bentag1965/automation-operations-platform/actions/workflows/typecheck.yml/badge.svg)
 
-Reliable webhook/API workflow patterns using idempotency, queues, explicit state, retries, audit logging, human approval gates, Prometheus metrics, and Grafana observability.
+Runnable reference platform for reliable API/webhook operations using durable workflow state, idempotency, queues, human approval, bounded retries, dead-letter handling, Prometheus/Grafana observability, hardened Docker, and AWS Terraform.
 
 ![Automation Operations Platform Grafana dashboard](https://raw.githubusercontent.com/bentag1965/automation-operations-platform/main/docs/images/automation-operations-dashboard.png)
 
 [View repository](https://github.com/bentag1965/automation-operations-platform)
 
-### IoT / Edge Reference Architecture
-![TypeScript CI](https://github.com/bentag1965/iot-edge-reference-architecture/actions/workflows/typecheck.yml/badge.svg)
-
-Resilient IoT/edge patterns for BLE, RFID/UHF, NFC, local buffering, deduplication, intermittent connectivity, and store-and-forward synchronization.
-
-[View repository](https://github.com/bentag1965/iot-edge-reference-architecture)
-
 ### Enterprise Identity Reference Architecture
 ![PowerShell CI](https://github.com/bentag1965/enterprise-identity-reference-architecture/actions/workflows/powershell-ci.yml/badge.svg)
 
-Entra ID-centered reference architecture for identity lifecycle, group-based access, RBAC, privileged access, Conditional Access, emergency access, workload identity governance, auditability, and incident response.
+Entra ID-centered reference architecture for lifecycle automation, group-based access, RBAC, privileged access, Conditional Access, emergency access, workload identity governance, identity observability, and incident response.
 
-Includes a safe PowerShell assessment against sanitized tenant snapshots to identify control gaps such as standing privilege, missing MFA, dormant accounts, ownerless service principals, and stale emergency-access testing.
+Includes a safe PowerShell assessment against sanitized tenant snapshots.
 
 [View repository](https://github.com/bentag1965/enterprise-identity-reference-architecture)
+
+### AI Model Longitudinal Lab
+![TypeScript CI](https://github.com/bentag1965/ai-model-longitudinal-lab/actions/workflows/typecheck.yml/badge.svg)
+
+Provider-agnostic architecture for controlled multi-model experiments, longitudinal behavior analysis, provenance tracking, prompt/schema versioning, structured-output validation, evaluator separation, and token/cost accounting.
+
+[View repository](https://github.com/bentag1965/ai-model-longitudinal-lab)
+
+### IoT / Edge Reference Architecture
+![TypeScript CI](https://github.com/bentag1965/iot-edge-reference-architecture/actions/workflows/typecheck.yml/badge.svg)
+
+Resilient edge architecture patterns for BLE, RFID/UHF, NFC, local buffering, deduplication, intermittent connectivity, store-and-forward synchronization, and field-operability concerns.
+
+[View repository](https://github.com/bentag1965/iot-edge-reference-architecture)
+
+### PowerShell Admin Toolkit
+![PowerShell CI](https://github.com/bentag1965/powershell-admin-toolkit/actions/workflows/powershell-ci.yml/badge.svg)
+
+Reusable PowerShell utilities for Windows administration, diagnostics, system health, performance monitoring, and operational automation.
+
+[View repository](https://github.com/bentag1965/powershell-admin-toolkit)
 
 ### Email Domain Security Audit
 ![PowerShell CI](https://github.com/bentag1965/email-domain-security-audit/actions/workflows/powershell-ci.yml/badge.svg)
 
-Defensive PowerShell tooling for assessing SPF, DMARC, DKIM selectors, MX, and DNS posture with severity-rated findings and remediation guidance.
+Defensive PowerShell tooling for assessing SPF, DMARC, DKIM selectors, MX, DNS, MTA-STS, and TLS reporting posture with severity-rated findings and remediation guidance.
 
 [View repository](https://github.com/bentag1965/email-domain-security-audit)
 
