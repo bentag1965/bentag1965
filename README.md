@@ -36,6 +36,15 @@ Resilient IoT/edge patterns for BLE, RFID/UHF, NFC, local buffering, deduplicati
 
 [View repository](https://github.com/bentag1965/iot-edge-reference-architecture)
 
+### Enterprise Identity Reference Architecture
+![PowerShell CI](https://github.com/bentag1965/enterprise-identity-reference-architecture/actions/workflows/powershell-ci.yml/badge.svg)
+
+Entra ID-centered reference architecture for identity lifecycle, group-based access, RBAC, privileged access, Conditional Access, emergency access, workload identity governance, auditability, and incident response.
+
+Includes a safe PowerShell assessment against sanitized tenant snapshots to identify control gaps such as standing privilege, missing MFA, dormant accounts, ownerless service principals, and stale emergency-access testing.
+
+[View repository](https://github.com/bentag1965/enterprise-identity-reference-architecture)
+
 ### Email Domain Security Audit
 ![PowerShell CI](https://github.com/bentag1965/email-domain-security-audit/actions/workflows/powershell-ci.yml/badge.svg)
 
