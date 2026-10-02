@@ -23,7 +23,9 @@ Provider-agnostic reference architecture for controlled multi-model experiments,
 ### Automation Operations Platform
 ![TypeScript CI](https://github.com/bentag1965/automation-operations-platform/actions/workflows/typecheck.yml/badge.svg)
 
-Reliable webhook/API workflow patterns using idempotency, queues, explicit state, retries, audit logging, and human approval gates.
+Reliable webhook/API workflow patterns using idempotency, queues, explicit state, retries, audit logging, human approval gates, Prometheus metrics, and Grafana observability.
+
+![Automation Operations Platform Grafana dashboard](https://raw.githubusercontent.com/bentag1965/automation-operations-platform/main/docs/images/automation-operations-dashboard.png)
 
 [View repository](https://github.com/bentag1965/automation-operations-platform)
 
