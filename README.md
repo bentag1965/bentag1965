@@ -100,3 +100,8 @@ These repositories are public reference implementations and portfolio work. Empl
 ---
 
 Open to senior remote opportunities in infrastructure architecture, IT operations, IoT/edge systems, solutions architecture, and technical leadership.
+
+## Connect
+
+**Professional site:** [bentartaglia.tech](https://bentartaglia.tech)  
+**Email:** [ben@bentartaglia.tech](mailto:ben@bentartaglia.tech)
